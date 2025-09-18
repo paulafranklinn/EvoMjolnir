@@ -1,5 +1,6 @@
-<img src="EvoMjolnir.png" alt="diagrama" width="300"/>
-
+<p align="center">
+  <img src="EvoMjolnir.png" alt="diagrama" width="300"/>
+</p>
 # 🧬 Evolutionary Mjolnir 🔨
 
 **Evolutionary Mjolnir** is a protein design tool that combines **Rosetta** and **ESM2** to identify and fix energetically unfavorable residues in protein structures. Inspired by the idea of "hammering down" high-energy contributions, the tool uses evolutionary insights to propose stabilizing mutations — just like Mjolnir striking down a protruding nail.
