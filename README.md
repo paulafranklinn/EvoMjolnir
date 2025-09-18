@@ -1,4 +1,4 @@
-(EvoMjolnir.png)
+![diagrama](EvoMjolnir.png)
 
 # 🧬 Evolutionary Mjolnir 🔨
 
